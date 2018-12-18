@@ -1,0 +1,7 @@
+D:\360data\重要数据\我的文档\Visual Studio 2015\Projects\timu(l6)\EnterpriseManagementSystem\DAL\bin\Debug\DAL.dll
+D:\360data\重要数据\我的文档\Visual Studio 2015\Projects\timu(l6)\EnterpriseManagementSystem\DAL\bin\Debug\DAL.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2015\Projects\timu(l6)\EnterpriseManagementSystem\DAL\bin\Debug\Model.dll
+D:\360data\重要数据\我的文档\Visual Studio 2015\Projects\timu(l6)\EnterpriseManagementSystem\DAL\bin\Debug\Model.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2015\Projects\timu(l6)\EnterpriseManagementSystem\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\360data\重要数据\我的文档\Visual Studio 2015\Projects\timu(l6)\EnterpriseManagementSystem\DAL\obj\Debug\DAL.dll
+D:\360data\重要数据\我的文档\Visual Studio 2015\Projects\timu(l6)\EnterpriseManagementSystem\DAL\obj\Debug\DAL.pdb

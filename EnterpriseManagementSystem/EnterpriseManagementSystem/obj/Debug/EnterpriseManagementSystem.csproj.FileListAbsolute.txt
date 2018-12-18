@@ -1,0 +1,17 @@
+D:\360data\重要数据\我的文档\Visual Studio 2015\Projects\timu(l6)\EnterpriseManagementSystem\EnterpriseManagementSystem\bin\Debug\EnterpriseManagementSystem.exe
+D:\360data\重要数据\我的文档\Visual Studio 2015\Projects\timu(l6)\EnterpriseManagementSystem\EnterpriseManagementSystem\bin\Debug\EnterpriseManagementSystem.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2015\Projects\timu(l6)\EnterpriseManagementSystem\EnterpriseManagementSystem\obj\Debug\EnterpriseManagementSystem.csprojResolveAssemblyReference.cache
+D:\360data\重要数据\我的文档\Visual Studio 2015\Projects\timu(l6)\EnterpriseManagementSystem\EnterpriseManagementSystem\obj\Debug\EnterpriseManagementSystem.Properties.Resources.resources
+D:\360data\重要数据\我的文档\Visual Studio 2015\Projects\timu(l6)\EnterpriseManagementSystem\EnterpriseManagementSystem\obj\Debug\EnterpriseManagementSystem.csproj.GenerateResource.Cache
+D:\360data\重要数据\我的文档\Visual Studio 2015\Projects\timu(l6)\EnterpriseManagementSystem\EnterpriseManagementSystem\obj\Debug\EnterpriseManagementSystem.exe
+D:\360data\重要数据\我的文档\Visual Studio 2015\Projects\timu(l6)\EnterpriseManagementSystem\EnterpriseManagementSystem\obj\Debug\EnterpriseManagementSystem.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2015\Projects\timu(l6)\EnterpriseManagementSystem\EnterpriseManagementSystem\bin\Debug\BLL.dll
+D:\360data\重要数据\我的文档\Visual Studio 2015\Projects\timu(l6)\EnterpriseManagementSystem\EnterpriseManagementSystem\bin\Debug\DAL.dll
+D:\360data\重要数据\我的文档\Visual Studio 2015\Projects\timu(l6)\EnterpriseManagementSystem\EnterpriseManagementSystem\bin\Debug\BLL.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2015\Projects\timu(l6)\EnterpriseManagementSystem\EnterpriseManagementSystem\bin\Debug\DAL.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2015\Projects\timu(l6)\EnterpriseManagementSystem\EnterpriseManagementSystem\bin\Debug\EnterpriseManagementSystem.exe.config
+D:\360data\重要数据\我的文档\Visual Studio 2015\Projects\timu(l6)\EnterpriseManagementSystem\EnterpriseManagementSystem\bin\Debug\Model.dll
+D:\360data\重要数据\我的文档\Visual Studio 2015\Projects\timu(l6)\EnterpriseManagementSystem\EnterpriseManagementSystem\bin\Debug\Model.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2015\Projects\timu(l6)\EnterpriseManagementSystem\EnterpriseManagementSystem\obj\Debug\EnterpriseManagementSystem.MainForm.resources
+D:\360data\重要数据\我的文档\Visual Studio 2015\Projects\timu(l6)\EnterpriseManagementSystem\EnterpriseManagementSystem\obj\Debug\EnterpriseManagementSystem.ManagerForm.resources
+D:\360data\重要数据\我的文档\Visual Studio 2015\Projects\timu(l6)\EnterpriseManagementSystem\EnterpriseManagementSystem\obj\Debug\EnterpriseManagementSystem.Login.resources
